@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateProject", "DateProject\DateProject.csproj", "{769AF23A-CF92-4FDE-AB5B-60D5127E40CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateProjectTest", "DateProjectTest\DateProjectTest.csproj", "{8AA9198F-F35B-4B26-BB97-E733F0E46197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769AF23A-CF92-4FDE-AB5B-60D5127E40CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769AF23A-CF92-4FDE-AB5B-60D5127E40CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769AF23A-CF92-4FDE-AB5B-60D5127E40CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769AF23A-CF92-4FDE-AB5B-60D5127E40CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA9198F-F35B-4B26-BB97-E733F0E46197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA9198F-F35B-4B26-BB97-E733F0E46197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA9198F-F35B-4B26-BB97-E733F0E46197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA9198F-F35B-4B26-BB97-E733F0E46197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
